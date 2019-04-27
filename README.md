@@ -4,12 +4,12 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 Spotify
 
-![picture](https://github.com/jpgaarder/Liri-node-app/blob/master/blob/master/screenshots/spotify.jpg "Spotify")
+![picture](https://github.com/jpgaarder/Liri-node-app/blob/master/blob/master/screenshots/spotify.PNG "Spotify")
 
 OMDB
 
-![picture](https://github.com/jpgaarder/Liri-node-app/blob/master/blob/master/screenshots/OMDB.jpg "OMDB")
+![picture](https://github.com/jpgaarder/Liri-node-app/blob/master/blob/master/screenshots/OMDB.PNG "OMDB")
 
 Bands In Town
 
-![picture](https://github.com/jpgaarder/Liri-node-app/blob/master/blob/master/screenshots/BandsInTown.jpg "Bands In Town")
+![picture](https://github.com/jpgaarder/Liri-node-app/blob/master/blob/master/screenshots/BandsInTown.PNG "Bands In Town")
