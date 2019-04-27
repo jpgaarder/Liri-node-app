@@ -4,12 +4,12 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 Spotify
 
-![picture](screenshots/spotify.jpg "Spotify")
+![picture](/blob/master/screenshots/spotify.jpg "Spotify")
 
 OMDB
 
-![picture](screenshots/OMDB.jpg "OMDB")
+![picture](/blob/master/screenshots/OMDB.jpg "OMDB")
 
 Bands In Town
 
-![picture](screenshots/BandsInTown.jpg "Bands In Town")
+![picture](/blob/master/screenshots/BandsInTown.jpg "Bands In Town")
